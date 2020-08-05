@@ -6,6 +6,6 @@ exe-файл по адресу /UseForm/bin/[Release\Debug]/UserForm.exe <br><br
 <strong>Для добавления новой сортировки:</strong><br>
 <ol>
   <li>Cоздать класс наследник BaseSort с реализацией алгоритма.</li>
-  <li>Добавить в Form1.Form_load() экзмемпляр новой сортировки сортировки.</li>
+  <li>Добавить в Form1.Form_load() экзмемпляр новой сортировки.</li>
 </ol>
 <img src="/приложение.png" alt="Внешний вид">
