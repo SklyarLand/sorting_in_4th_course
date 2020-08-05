@@ -8,4 +8,4 @@ exe-файл по адресу /UseForm/bin/[Release\Debug]/UserForm.exe <br><br
   <li>Cоздать класс наследник BaseSort с реализацией алгоритма.</li>
   <li>Добавить в Form1.Form_load() экзмемпляр новой сортировки сортировки.</li>
 </ol>
-![alt text](/приложение.png "Внешний вид")
+<img src="/приложение.png" alt="Внешний вид">
